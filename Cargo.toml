@@ -1,0 +1,8 @@
+[workspace]
+resolver = "2"
+members = [
+    "crates/anchor-lint",
+    "crates/triage-core",
+    "crates/triage-cli",
+]
+
